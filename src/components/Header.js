@@ -7,7 +7,7 @@ const Header = () => {
         <>
             <Link to="/cart">Cart: {cart.lenght} </Link>
             <div>
-                <Link to="/">Home aaaaaa</Link>
+                <Link to="/">Home</Link>
                 <Link to="/product">Product</Link>
             </div>
         </>
